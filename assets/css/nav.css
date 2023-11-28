@@ -54,6 +54,7 @@
   .nav>span {
     display: block;
     font-size: 40px;
+    cursor: pointer;
   }
 
   .nav--menu {
