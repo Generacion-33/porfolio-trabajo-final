@@ -62,7 +62,7 @@
   background: linear-gradient(var(--morph1), var(--morph2));
   filter: blur(100px);
   animation: morph 5s infinite linear;
-  will-change: transform, border-radius;
+  will-change: transform;
 }
 
 

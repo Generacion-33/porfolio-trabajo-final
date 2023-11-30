@@ -26,6 +26,10 @@
   font-weight: var(--font-bold);
 }
 
+.btn:hover {
+  cursor: pointer;
+}
+
 .nav__li {
   cursor: pointer;
   transition: background-color 0.5s, transform 0.5s;
