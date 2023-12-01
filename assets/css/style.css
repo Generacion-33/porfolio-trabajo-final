@@ -5,6 +5,7 @@
   --text-ligth: 200;
   --text-medium: 400;
   --text-bold: 600;
+  scroll-behavior: smooth;
 }
 
 *,
@@ -32,8 +33,6 @@
 
   --morph1: #9400D3;
   --morph2: #FFD700;
-
-
 }
 
 .body {
