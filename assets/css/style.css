@@ -81,3 +81,15 @@
   border-radius: 10px;
   background-color: var(--bg);
 }
+
+/* progress bar */
+
+#progress {
+  height: 2px;
+  background-color: var(--text);
+  position: fixed;
+  top: 6vh;
+  left: 0;
+  z-index: 10;
+  /* width: 30%; */
+}
